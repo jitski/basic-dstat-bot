@@ -1,0 +1,7 @@
+{
+    "bot_token": "your bot token",
+    "interface": "eth0",
+    "server_ip": "The server ip of the server running the bot",
+    "tcp_port": 80,
+    "udp_port": 53
+}
